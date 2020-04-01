@@ -1,5 +1,5 @@
 # Welcome to the finbook page
-> Fintech App
+> Fintech app
 
 ## Modules
 

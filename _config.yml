@@ -9,9 +9,5 @@ github:
   owner_name: Juan Kevin Trujillo
   zip_url: https://github.com/FinBook-io/finbook/archive/master.zip
   another_url: another value
-  
 
 theme: jekyll-theme-leap-day
-
-
-#theme: jekyll-theme-cayman
