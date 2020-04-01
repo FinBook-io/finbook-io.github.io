@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+title: finbook.io
+description: Fintech app
+show_downloads: true
+
+# google_analytics:
+
+github:
+  owner_url: https://github.com/juankevinTR
+  owner_name: Juan Kevin Trujillo
+  zip_url: https://github.com/FinBook-io/finbook/archive/master.zip
+  another_url: another value
+  
+
+theme: jekyll-theme-leap-day
+
+
+#theme: jekyll-theme-cayman
